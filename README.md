@@ -14,7 +14,6 @@ Eventual Goals
 - Debug mode (inject internal time/resource logger)
 - Entity Component System
 - Cmake build
-- 
 
 
 Goal Ideas
