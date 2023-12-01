@@ -1,19 +1,26 @@
 # 3DEN
 A 3D Rendering Engine in C++, developed by me
 
-current Goal/s
+Current Goal/s
 - Application, Windows specific
 
-Goals
+Goals Achieved
+
+Eventual Goals
 - Application, Windows specific
 - Window, abstract -> SDL/Window? Window Creation
 - Input Handler, abstract -> SDL Input Handler
 - Renderer, abstract -> SDL Renderer
 - Debug mode (inject internal time/resource logger)
-- Memory Systems (the tutorial i am following lists it as important, i'll see)
 - Entity Component System
+- Cmake build
+- 
 
 
+Goal Ideas
+- Memory Systems (the tutorial i am following lists it as important, i'll see)
+- File I/O
+- Virtual File System
 
 
 Helpful tutorials i've used to make this
