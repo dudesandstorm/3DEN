@@ -2,7 +2,7 @@
 A 3D Rendering Engine in C++, developed by me
 
 current Goal/s
--Application, Windows specific
+- Application, Windows specific
 
 Goals
 - Application, Windows specific
